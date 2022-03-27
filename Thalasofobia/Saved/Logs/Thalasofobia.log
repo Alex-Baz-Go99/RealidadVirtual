@@ -2806,3 +2806,1260 @@ Exception rethrown at [0]:
 [2022.03.27-18.51.44:196][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2022.03.27-18.51.45:757][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2022.03.27-18.51.45:773][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.27-18.56.22:687][202]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-18.56.23:045][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-18.56.23:045][202]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 6:56:23 AM)
+[2022.03.27-18.56.23:120][202]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.27-18.56.23:142][202]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.27-18.56.23:154][202]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.56.23:186][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032160s)
+[2022.03.27-18.56.23:187][202]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-18.56.23:188][202]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2022.03.27-18.56.23:188][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.034084s)
+[2022.03.27-18.56.23:199][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.27-18.56.23:200][202]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.27-18.56.23:200][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-18.56.23:201][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-18.56.23:201][202]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-18.56.23:201][202]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-18.56.23:201][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-18.56.23:201][202]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-18.56.23:205][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-18.56.23:205][202]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-18.56.23:321][202]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-18.56.23:321][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-18.56.23:321][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-18.56.23:321][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-18.56.23:322][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-18.56.23:322][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-18.56.23:322][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-18.56.23:322][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-18.56.23:322][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-18.56.23:322][202]LogInit: FAudioDevice initialized.
+[2022.03.27-18.56.23:322][202]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.03.27-18.56.23:386][202]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-18.56.23:421][202]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-12.56.23
+[2022.03.27-18.56.23:422][202]LogWorld: Bringing up level for play took: 0.002419
+[2022.03.27-18.56.23:423][202]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.03.27-18.56.23:468][202]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-18.56.23:501][202]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2022.03.27-18.56.23:528][202]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.23:531][202]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.23:684][202]PIE: Server logged in
+[2022.03.27-18.56.23:685][202]PIE: Play in editor total start time 0.658 seconds.
+[2022.03.27-18.56.23:732][202]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-18.56.28:560][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.56.28:560][476]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.56.29:035][476]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-18.56.29:035][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.56.29:055][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-18.56.29:092][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.56.29:100][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.56.29:100][476]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-18.56.29:100][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.56.29:101][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.56.29:107][476]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.27-18.56.29:107][476]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.29:108][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.27-18.56.29:145][477]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.03.27-18.56.30:131][525]LogEditorViewport: Clicking on Actor (LMB): VRSpectator_C (BP_VRSpectator)
+[2022.03.27-18.56.33:210][708]LogEditorViewport: Clicking on Actor (LMB): VRSpectator_C (BP_VRSpectator)
+[2022.03.27-18.56.36:194][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-18.56.36:194][884]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 6:56:36 AM)
+[2022.03.27-18.56.36:194][884]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.56.36:198][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003843s)
+[2022.03.27-18.56.36:199][884]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-18.56.36:199][884]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2022.03.27-18.56.36:200][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005292s)
+[2022.03.27-18.56.36:209][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.27-18.56.36:210][884]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-18.56.36:210][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-18.56.36:210][884]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-18.56.36:210][884]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-18.56.36:210][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-18.56.36:210][884]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-18.56.36:212][884]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-18.56.36:212][884]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-18.56.36:312][884]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-18.56.36:313][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-18.56.36:313][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-18.56.36:313][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-18.56.36:313][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-18.56.36:313][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-18.56.36:313][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-18.56.36:315][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-18.56.36:315][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-18.56.36:315][884]LogInit: FAudioDevice initialized.
+[2022.03.27-18.56.36:315][884]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.03.27-18.56.36:323][884]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-18.56.36:325][884]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-12.56.36
+[2022.03.27-18.56.36:325][884]LogWorld: Bringing up level for play took: 0.000851
+[2022.03.27-18.56.36:325][884]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.03.27-18.56.36:327][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-18.56.36:328][884]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.36:329][884]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.36:329][884]PIE: Server logged in
+[2022.03.27-18.56.36:330][884]PIE: Play in editor total start time 0.137 seconds.
+[2022.03.27-18.56.36:344][884]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-18.56.38:058][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.56.38:058][978]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.56.38:058][978]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-18.56.38:058][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.56.38:068][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-18.56.38:075][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.56.38:083][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-18.56.38:083][978]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-18.56.38:083][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.56.38:084][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.56.38:088][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.56.38:089][978]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.27-18.56.38:089][978]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.56.38:090][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.27-18.56.38:138][981]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.03.27-18.57.01:238][365]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2022.03.27-18.57.16:034][237]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.03.27-18.57.28:779][967]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.27-18.57.31:751][967]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.03.27-18.57.31:761][967]LogActorComponent: UnregisterComponent: (/Game/Player_Start_Blueprint.Default__Player_Start_Blueprint_C:Sprite) Not registered. Aborting.
+[2022.03.27-18.57.31:761][967]LogActorComponent: UnregisterComponent: (/Game/Player_Start_Blueprint.Default__Player_Start_Blueprint_C:Sprite2) Not registered. Aborting.
+[2022.03.27-18.57.31:878][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.03.27-18.57.31:939][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Start_Blueprint.Player_Start_Blueprint
+[2022.03.27-18.57.42:116][967]LogTexture: Display: Building textures: T_WaterFlow_01_Foam_Tiled_N (OODLE_BC5, 2048X2048)
+[2022.03.27-18.57.42:116][967]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.03.27-18.57.42:116][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.03.27-18.57.42:116][967]LogTexture: Display: Building textures: T_WaterFlow_01_Foam_Tiled (OODLE_AutoDXT, 2048X2048)
+[2022.03.27-18.57.42:116][967]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.27-18.57.42:116][967]LogTexture: Display: Building textures: T_Water_TilingNormal_With_Height_02_Softened (OODLE_AutoDXT, 1024X1024)
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__A737A4E5453E2F42FDF600EAA0CDE1D07E0E35FD.
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__A737A4E5453E2F42FDF600EAA0CDE1D07E0E35FD to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__470FD5BAB49CF7C4A2DFCB7DFB5D6A1FAC9A11C0.
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__470FD5BAB49CF7C4A2DFCB7DFB5D6A1FAC9A11C0 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__FB0E6CD332E8B881CE4EE9669EF7220ED0F78CC9.
+[2022.03.27-18.57.42:116][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__FB0E6CD332E8B881CE4EE9669EF7220ED0F78CC9 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:117][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__E8B5310FB6AEF25FA06B9AAEE0D00B8C04F50FD6.
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__E8B5310FB6AEF25FA06B9AAEE0D00B8C04F50FD6 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__0A28BF3C68048F08D37F8DD56CE53858F5786F8B.
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__0A28BF3C68048F08D37F8DD56CE53858F5786F8B to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__7841766E339D6C9C978BFF4FF055BFA5CFBE23CF.
+[2022.03.27-18.57.42:117][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FB51F1574C2E52CBFCC8C885__7841766E339D6C9C978BFF4FF055BFA5CFBE23CF to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:117][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.27-18.57.42:117][967]LogMaterial: Display: Missing cached shadermap for Water_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 09B8CE4C5D3F67FDB26731A64FFD24779014F4ED), compiling. 
+[2022.03.27-18.57.42:322][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__88EB211533FD2CCB70A1E772838359456779718B.
+[2022.03.27-18.57.42:322][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__88EB211533FD2CCB70A1E772838359456779718B to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:322][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__4D9A1D3426B7E9D3163DE241214853CCA64691A0.
+[2022.03.27-18.57.42:323][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__4D9A1D3426B7E9D3163DE241214853CCA64691A0 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:323][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__85C9C176AAEB72B5C8A34378C2EC45F14DE6DCF2.
+[2022.03.27-18.57.42:323][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__85C9C176AAEB72B5C8A34378C2EC45F14DE6DCF2 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.42:323][967]LogShaderCompilers: Display: Submitted 161 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.48:359][967]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 161
+[2022.03.27-18.57.48:359][967]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 151
+[2022.03.27-18.57.48:359][967]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 141
+[2022.03.27-18.57.48:359][967]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__4C4402897FA71924DB7A5F3452559E34955B3A39.
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__4C4402897FA71924DB7A5F3452559E34955B3A39 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__F33149C63009E0A790A1153C87A1DADE42BDA3E6.
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_997F696A425B330EE556__F33149C63009E0A790A1153C87A1DADE42BDA3E6 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__9E73EE2F37B00CA2FCB26DE93E723E35BA8C792C.
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__9E73EE2F37B00CA2FCB26DE93E723E35BA8C792C to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:359][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__F6DA31C2AA963AA8058934653F051F2CE8576DDD.
+[2022.03.27-18.57.48:360][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__F6DA31C2AA963AA8058934653F051F2CE8576DDD to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:360][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__106AF4D0D5C778A7ABAD0FB5A115D0B9A5DFECD2.
+[2022.03.27-18.57.48:360][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__106AF4D0D5C778A7ABAD0FB5A115D0B9A5DFECD2 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:360][967]LogDerivedDataCache: Warning: C:/Users/TEMP.DESKTOP-DV3H2OO/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/TEMP.DESKTOP-DV3H2OO/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/NAVCOLLISION_2983273BE5D6425391E8C0B3D1C0A55D_NAVCOLLISION_X_BEA529AC4F1F4066D__E71E6DD743EE9B53D210169353BAE5451F88FDC0.udd, consider disabling it.
+[2022.03.27-18.57.48:798][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__505875BBCDA6D206B05625FD1DDE298E91216BC4.
+[2022.03.27-18.57.48:798][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__505875BBCDA6D206B05625FD1DDE298E91216BC4 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:798][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__BE788EEAE124ADFBA30CB62166E7738D9B2851A1.
+[2022.03.27-18.57.48:798][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__BE788EEAE124ADFBA30CB62166E7738D9B2851A1 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.48:798][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B2ADDDAA77D5876E2730EB0FA256D0F5993B229), compiling. 
+[2022.03.27-18.57.48:808][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:044][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__3E525526CF1870C5E0C31891C21522FD518A872A.
+[2022.03.27-18.57.49:044][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8D3155CF4CE1EA50324E__3E525526CF1870C5E0C31891C21522FD518A872A to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.49:044][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_01_NoTerrain in PCD3D_SM5, Default, SM5 (DDC key hash: EF7BF10D91A18F67535A4B2A6D6917EDF59E5BB3), compiling. 
+[2022.03.27-18.57.49:052][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:054][967]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal in PCD3D_SM5, Default, SM5 (DDC key hash: DF52A40EFCBF7F44C5807228D5B5F6E53D6AECF9), compiling. 
+[2022.03.27-18.57.49:065][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:066][967]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_TerrainSystem in PCD3D_SM5, Default, SM5 (DDC key hash: 498602871C2ACB89E0F379CFA64248D89FDD8240), compiling. 
+[2022.03.27-18.57.49:080][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:231][967]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_TerrainDepthOnly in PCD3D_SM5, Default, SM5 (DDC key hash: F828EC0BEBA807A1703A7D4144EC63A408260EEC), compiling. 
+[2022.03.27-18.57.49:244][967]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_SceneCapture in PCD3D_SM5, Default, SM5 (DDC key hash: B4B0E8208DFEC9BDC657E157118856D19BAA4BB4), compiling. 
+[2022.03.27-18.57.49:256][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:257][967]LogMaterial: Display: Missing cached shadermap for MakeEdgeMask in PCD3D_SM5, Default, SM5 (DDC key hash: 8A8162A49EB5C42234B898DF33F20354A02DAED6), compiling. 
+[2022.03.27-18.57.49:266][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:304][967]LogMaterial: Display: Missing cached shadermap for CopyRT in PCD3D_SM5, Default, SM5 (DDC key hash: A2FF2F427C50DC721FE239681794EFD25B9E21EB), compiling. 
+[2022.03.27-18.57.49:317][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:342][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_Force_Impulse in PCD3D_SM5, Default, SM5 (DDC key hash: 362C4390AEFCD7A289FC4B119D2A70ABE8E3B495), compiling. 
+[2022.03.27-18.57.49:353][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:356][967]LogMaterial: Display: Missing cached shadermap for M_Rain_01 in PCD3D_SM5, Default, SM5 (DDC key hash: DA907A9BEA3658FF1EE6085D8D6329074D74F224), compiling. 
+[2022.03.27-18.57.49:369][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:460][967]LogMaterial: Display: Missing cached shadermap for FoamDiffuse in PCD3D_SM5, Default, SM5 (DDC key hash: AF789E451AB30A6FAE95CC297F39511AFEB3526D), compiling. 
+[2022.03.27-18.57.49:468][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:469][967]LogMaterial: Display: Missing cached shadermap for FoamDeltaCopy in PCD3D_SM5, Default, SM5 (DDC key hash: 013F53B0A3F4116B11C497DE2C3288BCB756CBC4), compiling. 
+[2022.03.27-18.57.49:477][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:528][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Display_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 14F7D3ED347114BD7FC76CD2CB1AE44D2EEDEDA2), compiling. 
+[2022.03.27-18.57.49:560][967]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:580][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_Force_Component in PCD3D_SM5, Default, SM5 (DDC key hash: B24368A2533C2BC8AC2442AE9DC3EE576CC04EEA), compiling. 
+[2022.03.27-18.57.49:593][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:594][967]LogMaterial: Display: Missing cached shadermap for M_Fluid_Force_Skelmesh in PCD3D_SM5, Default, SM5 (DDC key hash: 59CC15023117F72E5E6B2150CCBF1F3CD621618F), compiling. 
+[2022.03.27-18.57.49:609][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.49:610][967]LogMaterial: Display: Missing cached shadermap for PerfTestNoiseMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0E54119305F1EF44E014032FB24A0CBEDAF156FF), compiling. 
+[2022.03.27-18.57.49:617][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:221][967]LogTexture: Display: Building textures: Caustics_Animated_01_HDR (RGBA16F, 4096X2048)
+[2022.03.27-18.57.50:221][967]LogMaterial: Display: Missing cached shadermap for M_Underwater_CrossSection_Test in PCD3D_SM5, Default, SM5 (DDC key hash: 23458134FC398FDBEBF0BEF748B17EF84BE8DD5A), compiling. 
+[2022.03.27-18.57.50:232][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:234][967]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_01 in PCD3D_SM5, Default, SM5 (DDC key hash: DD61FF8C26FBCD597401E5935FBA0428C548EAD0), compiling. 
+[2022.03.27-18.57.50:241][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:265][967]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_TerrainSystem in PCD3D_SM5, Default, SM5 (DDC key hash: 1E74259BCA21D61572875445DA47E3EB21C58C22), compiling. 
+[2022.03.27-18.57.50:274][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:410][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C1F0280485375C8C3F24092BE914D487DAB05AD4.
+[2022.03.27-18.57.50:410][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C1F0280485375C8C3F24092BE914D487DAB05AD4 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.50:410][967]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_SceneCapture in PCD3D_SM5, Default, SM5 (DDC key hash: 96F96F5FE44CF8DDC2F607CBBBCBB204C8452363), compiling. 
+[2022.03.27-18.57.50:418][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:419][967]LogMaterial: Display: Missing cached shadermap for M_SeedWater_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C31ABFED884D06559B9FB065FB704EDF3E1AF8B), compiling. 
+[2022.03.27-18.57.50:426][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:427][967]LogMaterial: Display: Missing cached shadermap for M_GravAcceleration in PCD3D_SM5, Default, SM5 (DDC key hash: 70C732F6BE7E6CD94C5EC18A4648DDD4CA5D4099), compiling. 
+[2022.03.27-18.57.50:434][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:611][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C49B47BEAA72591D6CDFAA0A4062A86C1B3878A7.
+[2022.03.27-18.57.50:611][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C49B47BEAA72591D6CDFAA0A4062A86C1B3878A7 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.50:611][967]LogMaterial: Display: Missing cached shadermap for M_CalcDivergence in PCD3D_SM5, Default, SM5 (DDC key hash: 8AAE4866C852DD4846E8550EC1CD0C76EAE98E0F), compiling. 
+[2022.03.27-18.57.50:618][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:684][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C47D9B140E098EA368DF3757D08CD17C3B7FA6A7.
+[2022.03.27-18.57.50:684][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__C47D9B140E098EA368DF3757D08CD17C3B7FA6A7 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.50:684][967]LogMaterial: Display: Missing cached shadermap for M_Advect_Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: 41008D06A6C846F9309D066A56388E9F41F31289), compiling. 
+[2022.03.27-18.57.50:692][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:693][967]LogMaterial: Display: Missing cached shadermap for DrawWaveCrests in PCD3D_SM5, Default, SM5 (DDC key hash: 04A3D38B7B48B04B86B0A1EE25FE96BEE33AE644), compiling. 
+[2022.03.27-18.57.50:701][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:702][967]LogMaterial: Display: Missing cached shadermap for JumpFloodStep in PCD3D_SM5, Default, SM5 (DDC key hash: 2601B0400D595D4A8AD1058A02323E22F65E75FE), compiling. 
+[2022.03.27-18.57.50:714][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:715][967]LogMaterial: Display: Missing cached shadermap for DetectEdges in PCD3D_SM5, Default, SM5 (DDC key hash: E6C37D931BC3A83E7891B324660C302B1511728A), compiling. 
+[2022.03.27-18.57.50:728][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:729][967]LogMaterial: Display: Missing cached shadermap for BlurEdges in PCD3D_SM5, Default, SM5 (DDC key hash: 09F53EBA2FE50A0E973CB8FF1D8C3A6EDF386798), compiling. 
+[2022.03.27-18.57.50:742][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:744][967]LogMaterial: Display: Missing cached shadermap for ComputeVoronoiDistance in PCD3D_SM5, Default, SM5 (DDC key hash: 36386CDC3B670AEF8D5808851AF716AD06766FA3), compiling. 
+[2022.03.27-18.57.50:757][967]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:796][967]LogMaterial: Display: Missing cached shadermap for M_RT_Normals in PCD3D_SM5, Default, SM5 (DDC key hash: 2174B8E4A8F77C0B46925C2D391BE61C56B93C2A), compiling. 
+[2022.03.27-18.57.50:803][967]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.50:811][967]LogBlueprintEditor: Perf: 18.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.03.27-18.57.50:811][967]LogBlueprintEditor: Perf: 17.2 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.03.27-18.57.50:811][967]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.03.27-18.57.50:811][967]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2022.03.27-18.57.50:811][967]LogBlueprintEditor: Perf: 0.4 seconds loading: /Landmass/Landscape/BlueprintBrushes/Libraries/LandscapeBrushLibrary
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__4A6685CF8BC675A43F9EFFF2DBB73998AF5A8979.
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__4A6685CF8BC675A43F9EFFF2DBB73998AF5A8979 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__0F7B09090212E7E8D8834240F1FCD15E014E5777.
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__0F7B09090212E7E8D8834240F1FCD15E014E5777 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__BAF65F6E9F18085974C32E8BEAA9A1A62830DD51.
+[2022.03.27-18.57.51:025][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__BAF65F6E9F18085974C32E8BEAA9A1A62830DD51 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.53:117][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__270B9509DF3078AEDE0531DDBB301DD8395ED44D.
+[2022.03.27-18.57.53:117][967]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_RGBA16F_397F087346E1953C7ED490A16DEDE__270B9509DF3078AEDE0531DDBB301DD8395ED44D to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.57.54:558][967]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.03.27-18.57.56:021][967]LogMaterial: Display: Missing cached shadermap for GridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 59ACA1E0025C040EF913240211FDDDE7A3A50BF3), compiling. 
+[2022.03.27-18.57.56:040][967]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.56:359][967]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in PCD3D_SM5, Default, SM5 (DDC key hash: CA1919638C85727DC16944B8D52B016DD29089E9), compiling. 
+[2022.03.27-18.57.56:385][967]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.27-18.57.56:733][967]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_514143F1A4E40A55F19673D6F3EC8D3B.
+[2022.03.27-18.57.56:733][967]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_514143F1A4E40A55F19673D6F3EC8D3B to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.58.06:810][500]LogSlate: Took 0.036381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.27-18.58.07:191][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 456
+[2022.03.27-18.58.07:191][519]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.58.07:214][519]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-18.58.07:215][519]LogShaderCompilers: Display: Total job queries 11711, among them cache hits 46 (0.39%)
+[2022.03.27-18.58.07:215][519]LogShaderCompilers: Display: Tracking 6393 distinct input hashes that result in 1959 distinct outputs (30.64%)
+[2022.03.27-18.58.07:215][519]LogShaderCompilers: Display: RAM used: 25.40 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.10%
+[2022.03.27-18.58.07:215][519]LogShaderCompilers: Display: ================================================
+[2022.03.27-18.58.27:108][627]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 446
+[2022.03.27-18.58.27:108][627]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.58.28:380][700]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 436
+[2022.03.27-18.58.28:380][700]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.58.49:563][858]BlueprintLog: New page: Compile Player_Start_Blueprint
+[2022.03.27-18.58.49:672][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.03.27-18.58.51:043][923]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 426
+[2022.03.27-18.58.51:043][923]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.58.51:807][961]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.03.27-18.58.53:310][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-18.58.53:316][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-18.58.53:316][ 42]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 6:58:53 AM)
+[2022.03.27-18.58.53:355][ 42]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.58.53:359][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004126s)
+[2022.03.27-18.58.53:360][ 42]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-18.58.53:361][ 42]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2022.03.27-18.58.53:361][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005763s)
+[2022.03.27-18.58.53:391][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.03.27-18.58.53:393][ 42]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-18.58.53:393][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-18.58.53:393][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-18.58.53:393][ 42]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-18.58.53:393][ 42]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-18.58.53:394][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-18.58.53:394][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-18.58.53:396][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-18.58.53:396][ 42]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-18.58.53:509][ 42]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-18.58.53:509][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-18.58.53:509][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-18.58.53:509][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-18.58.53:510][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-18.58.53:510][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-18.58.53:510][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-18.58.53:512][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-18.58.53:512][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-18.58.53:512][ 42]LogInit: FAudioDevice initialized.
+[2022.03.27-18.58.53:512][ 42]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2022.03.27-18.58.53:525][ 42]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-18.58.53:526][ 42]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-12.58.53
+[2022.03.27-18.58.53:526][ 42]LogWorld: Bringing up level for play took: 0.000885
+[2022.03.27-18.58.53:526][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.27-18.58.53:528][ 42]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-18.58.53:529][ 42]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.58.53:531][ 42]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.58.53:532][ 42]PIE: Server logged in
+[2022.03.27-18.58.53:532][ 42]PIE: Play in editor total start time 0.218 seconds.
+[2022.03.27-18.58.53:547][ 42]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-18.59.01:783][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.59.01:783][505]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.59.01:783][505]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-18.59.01:783][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.59.01:797][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-18.59.01:814][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.59.01:842][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-18.59.01:842][505]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-18.59.01:842][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.59.01:844][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.59.01:848][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.59.01:849][505]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.27-18.59.01:849][505]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.59.01:852][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.27-18.59.01:887][506]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.27-18.59.10:292][969]BlueprintLog: New page: Compile Player_Start_Blueprint
+[2022.03.27-18.59.10:371][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.27-18.59.12:430][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-18.59.12:436][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-18.59.12:436][ 80]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 6:59:12 AM)
+[2022.03.27-18.59.12:436][ 80]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.59.12:441][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2022.03.27-18.59.12:442][ 80]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-18.59.12:442][ 80]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2022.03.27-18.59.12:442][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005489s)
+[2022.03.27-18.59.12:473][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.27-18.59.12:476][ 80]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-18.59.12:476][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-18.59.12:476][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-18.59.12:477][ 80]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-18.59.12:477][ 80]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-18.59.12:477][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-18.59.12:477][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-18.59.12:479][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-18.59.12:479][ 80]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-18.59.12:591][ 80]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-18.59.12:591][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-18.59.12:591][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-18.59.12:591][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-18.59.12:591][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-18.59.12:592][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-18.59.12:592][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-18.59.12:593][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-18.59.12:593][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-18.59.12:593][ 80]LogInit: FAudioDevice initialized.
+[2022.03.27-18.59.12:593][ 80]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2022.03.27-18.59.12:602][ 80]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-18.59.12:603][ 80]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-12.59.12
+[2022.03.27-18.59.12:604][ 80]LogWorld: Bringing up level for play took: 0.000920
+[2022.03.27-18.59.12:604][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.27-18.59.12:606][ 80]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-18.59.12:607][ 80]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.59.12:609][ 80]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.59.12:610][ 80]PIE: Server logged in
+[2022.03.27-18.59.12:611][ 80]PIE: Play in editor total start time 0.175 seconds.
+[2022.03.27-18.59.12:624][ 80]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-18.59.14:899][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.59.14:899][202]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-18.59.14:899][202]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-18.59.14:899][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.59.14:913][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-18.59.14:929][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.59.14:954][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-18.59.14:955][202]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-18.59.14:955][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.59.14:956][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-18.59.14:960][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-18.59.14:961][202]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.27-18.59.14:961][202]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.27-18.59.14:964][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.27-18.59.14:994][203]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.27-18.59.19:754][462]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 416
+[2022.03.27-18.59.19:754][462]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.22:819][620]LogSlate: Window 'Player_Start_Blueprint' being destroyed
+[2022.03.27-18.59.22:824][620]LogSlate: Window 'Player_Start_Blueprint' being destroyed
+[2022.03.27-18.59.22:826][620]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-18.59.22:826][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-18.59.24:365][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.27-18.59.25:600][688]LogSlate: Window 'Save Content' being destroyed
+[2022.03.27-18.59.25:806][688]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/Player_Start_Blueprint5691E1744488A12F41309AA416D81DEF.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/Player_Start_Blueprint.uasset'
+[2022.03.27-18.59.25:835][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.03.27-18.59.25:853][688]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap4664FD24405F7C899E402EB0A20FAA8B.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.03.27-18.59.25:859][688]LogFileHelpers: Saving map 'VRTemplateMap' took 0.051
+[2022.03.27-18.59.25:874][688]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-18.59.25:874][688]LogContentValidation: Display: Validating Blueprint /Game/Player_Start_Blueprint.Player_Start_Blueprint
+[2022.03.27-18.59.25:874][688]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.03.27-18.59.30:838][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 406
+[2022.03.27-18.59.30:838][838]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.31:060][844]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 396
+[2022.03.27-18.59.31:061][844]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.31:161][847]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___FE35CA19CF5B556E8FFC17CA5838B36F0A74A8EA.
+[2022.03.27-18.59.31:161][847]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___FE35CA19CF5B556E8FFC17CA5838B36F0A74A8EA to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.31:316][853]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___C28ED91C9E5B69B128D0F6DDA0CB811832B66D54.
+[2022.03.27-18.59.31:316][853]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___C28ED91C9E5B69B128D0F6DDA0CB811832B66D54 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.35:352][979]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 386
+[2022.03.27-18.59.35:352][979]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.35:682][989]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E94E41B3C086AD1F5BBA32F5C0384C440EF3C282.
+[2022.03.27-18.59.35:682][989]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E94E41B3C086AD1F5BBA32F5C0384C440EF3C282 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.36:324][  7]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 376
+[2022.03.27-18.59.36:324][  7]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.36:449][  9]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 366
+[2022.03.27-18.59.36:449][  9]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.36:715][ 12]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB3B609855780BCC70DC7A41433DD20F9BF41529.
+[2022.03.27-18.59.36:715][ 12]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB3B609855780BCC70DC7A41433DD20F9BF41529 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.42:061][156]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 356
+[2022.03.27-18.59.42:061][156]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.42:300][164]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 346
+[2022.03.27-18.59.42:300][164]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.42:375][166]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___0D4894236C975E8CD09F0472BAB8D520A2A9DC5E.
+[2022.03.27-18.59.42:375][166]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___0D4894236C975E8CD09F0472BAB8D520A2A9DC5E to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.42:548][171]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB8B3786AF27C0B2AC0F1E236E6BC10E03CEFBCA.
+[2022.03.27-18.59.42:548][171]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB8B3786AF27C0B2AC0F1E236E6BC10E03CEFBCA to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.43:416][195]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 336
+[2022.03.27-18.59.43:418][195]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.43:703][203]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___8B579E65837C6AC1A23B827370C7BF4AE2212BED.
+[2022.03.27-18.59.43:703][203]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___8B579E65837C6AC1A23B827370C7BF4AE2212BED to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.47:453][299]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 326
+[2022.03.27-18.59.47:453][299]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.47:598][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 316
+[2022.03.27-18.59.47:599][303]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.47:628][304]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6EAF5067A6AEE3FF845D603B1A250F0436E59445.
+[2022.03.27-18.59.47:628][304]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6EAF5067A6AEE3FF845D603B1A250F0436E59445 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.47:821][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___D394E995C0770417D0DC30CE8BEB59689F407D7C.
+[2022.03.27-18.59.47:821][310]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___D394E995C0770417D0DC30CE8BEB59689F407D7C to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.47:860][311]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___217A5016E2F07A2FDBCA650C8E588D02DF7B23C6.
+[2022.03.27-18.59.47:860][311]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___217A5016E2F07A2FDBCA650C8E588D02DF7B23C6 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.47:901][312]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E78AF937A368B26C33D3EA3A55E1EED52585F825.
+[2022.03.27-18.59.47:901][312]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E78AF937A368B26C33D3EA3A55E1EED52585F825 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.48:318][327]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 306
+[2022.03.27-18.59.48:318][327]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.48:536][334]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___417A43207634011E0393DBC529A754587CE93BDB.
+[2022.03.27-18.59.48:536][334]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___417A43207634011E0393DBC529A754587CE93BDB to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.51:733][442]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 296
+[2022.03.27-18.59.51:733][442]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.52:843][490]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 286
+[2022.03.27-18.59.52:843][490]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.53:035][497]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___7372849DFE3E4704658BB712B145E94212022409.
+[2022.03.27-18.59.53:035][497]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___7372849DFE3E4704658BB712B145E94212022409 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.53:035][497]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___C6AB21C8B67E37F865F82FB67F19B15B8A648255.
+[2022.03.27-18.59.53:035][497]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___C6AB21C8B67E37F865F82FB67F19B15B8A648255 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.53:060][498]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E5D6E4C56A0C948C353195E8176155A917662D73.
+[2022.03.27-18.59.53:060][498]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E5D6E4C56A0C948C353195E8176155A917662D73 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.55:653][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 276
+[2022.03.27-18.59.55:653][583]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.55:933][592]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___A280E67F883D0DC47D006213B23A67EC6C0F6984.
+[2022.03.27-18.59.55:933][592]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___A280E67F883D0DC47D006213B23A67EC6C0F6984 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.56:334][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 266
+[2022.03.27-18.59.56:334][603]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.56:532][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 256
+[2022.03.27-18.59.56:532][610]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-18.59.56:581][612]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E9EC073EF8F80D44EB92B1A25DA3D4D37A3F7890.
+[2022.03.27-18.59.56:581][612]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___E9EC073EF8F80D44EB92B1A25DA3D4D37A3F7890 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-18.59.56:759][618]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___8E43E96A6E29B52FF3E5A19CFDE39EB18E345789.
+[2022.03.27-18.59.56:759][618]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___8E43E96A6E29B52FF3E5A19CFDE39EB18E345789 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.01:161][783]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 246
+[2022.03.27-19.00.01:161][783]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.01:400][789]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___F7AA16D6F89606B9A634F8D6DC5E4A024482C31C.
+[2022.03.27-19.00.01:400][789]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___F7AA16D6F89606B9A634F8D6DC5E4A024482C31C to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.08:191][979]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 236
+[2022.03.27-19.00.08:191][979]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.08:862][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 226
+[2022.03.27-19.00.08:862][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.13:360][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 216
+[2022.03.27-19.00.13:361][142]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.18:325][338]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 206
+[2022.03.27-19.00.18:325][338]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 196
+[2022.03.27-19.00.18:325][338]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 186
+[2022.03.27-19.00.18:325][338]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.18:562][344]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___CFE00650162A5EECD2F8E6FF60AC44688C463F45.
+[2022.03.27-19.00.18:562][344]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___CFE00650162A5EECD2F8E6FF60AC44688C463F45 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.18:562][344]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EC81DB0DC97DA9B137602D7E2642ABB4BA6CFE90.
+[2022.03.27-19.00.18:562][344]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EC81DB0DC97DA9B137602D7E2642ABB4BA6CFE90 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.18:608][346]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___F0B31E5576E443E2E679AB28FC2050904A8FF343.
+[2022.03.27-19.00.18:608][346]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___F0B31E5576E443E2E679AB28FC2050904A8FF343 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.18:764][351]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6480DC4B051A76231C50A5E154A7875CADA15053.
+[2022.03.27-19.00.18:764][351]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6480DC4B051A76231C50A5E154A7875CADA15053 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.22:017][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 176
+[2022.03.27-19.00.22:017][432]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.22:290][439]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___A8D32598E034B992E806867C63B2EA0B262C9634.
+[2022.03.27-19.00.22:290][439]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___A8D32598E034B992E806867C63B2EA0B262C9634 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.22:416][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 166
+[2022.03.27-19.00.22:416][445]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.22:520][447]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 156
+[2022.03.27-19.00.22:520][447]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.22:655][449]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___133C8B59762C74021F9B2575E88BCDE6CF09256A.
+[2022.03.27-19.00.22:655][449]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___133C8B59762C74021F9B2575E88BCDE6CF09256A to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.22:793][452]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___793716773160527A6EF4F62ABC07F67A977CF438.
+[2022.03.27-19.00.22:795][452]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___793716773160527A6EF4F62ABC07F67A977CF438 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.30:500][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 146
+[2022.03.27-19.00.30:500][788]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.31:244][830]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 136
+[2022.03.27-19.00.31:245][830]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.31:425][840]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 126
+[2022.03.27-19.00.31:425][840]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.31:451][842]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6C8C8D013D39CB856280E2DBAC8C2162315ED493.
+[2022.03.27-19.00.31:451][842]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6C8C8D013D39CB856280E2DBAC8C2162315ED493 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.31:643][853]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB768DD7982CA5A25C5EA9F75C62131A80F8AA3A.
+[2022.03.27-19.00.31:643][853]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EB768DD7982CA5A25C5EA9F75C62131A80F8AA3A to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.31:660][854]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EC2A1B9237B6E45C48DC340EBB96157C13F6A63F.
+[2022.03.27-19.00.31:660][854]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___EC2A1B9237B6E45C48DC340EBB96157C13F6A63F to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.39:081][280]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 116
+[2022.03.27-19.00.39:081][280]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.39:294][293]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___383332CEB3F21EC64D222F306036D901470B82A4.
+[2022.03.27-19.00.39:294][293]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___383332CEB3F21EC64D222F306036D901470B82A4 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.39:312][294]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6E524A624DE0BCF4D463E5A2560D013CB4B2E046.
+[2022.03.27-19.00.39:312][294]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___6E524A624DE0BCF4D463E5A2560D013CB4B2E046 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.00.50:927][623]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 106
+[2022.03.27-19.00.50:927][623]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.52:357][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2022.03.27-19.00.52:358][660]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.00.52:750][672]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___FCE4FA8DE03D3EEABFA2B14CACE27EA66326D105.
+[2022.03.27-19.00.52:750][672]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___FCE4FA8DE03D3EEABFA2B14CACE27EA66326D105 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.01.11:183][112]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2022.03.27-19.01.11:183][112]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.11:241][112]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-19.01.11:241][112]LogShaderCompilers: Display: Total job queries 11711, among them cache hits 46 (0.39%)
+[2022.03.27-19.01.11:241][112]LogShaderCompilers: Display: Tracking 6763 distinct input hashes that result in 2181 distinct outputs (32.25%)
+[2022.03.27-19.01.11:241][112]LogShaderCompilers: Display: RAM used: 27.57 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.37%
+[2022.03.27-19.01.11:241][112]LogShaderCompilers: Display: ================================================
+[2022.03.27-19.01.14:272][178]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2022.03.27-19.01.14:272][178]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.27:382][539]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2022.03.27-19.01.27:382][539]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.33:085][700]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2022.03.27-19.01.33:085][700]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.42:963][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2022.03.27-19.01.42:963][  1]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.44:338][ 39]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2022.03.27-19.01.44:338][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.57:194][413]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.03.27-19.01.57:196][413]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.01.59:536][464]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.03.27-19.01.59:537][464]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.09:455][918]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.27-19.02.16:421][920]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2022.03.27-19.02.16:422][920]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.16:422][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.27-19.02.16:450][920]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap55C0D5E342DC8009DCA182BC40167037.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.03.27-19.02.16:503][920]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap_BuiltDataE065DEC04AB51D49FE0F9887BD4F8420.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.03.27-19.02.16:521][920]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-19.02.16:521][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.03.27-19.02.16:521][920]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.03.27-19.02.16:947][930]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.03.27-19.02.16:947][930]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.18:872][989]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.03.27-19.02.18:872][989]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.20:492][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.27-19.02.20:492][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.26:802][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.03.27-19.02.26:802][383]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.27-19.02.41:923][191]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___804198C408E5ADAF93854FFE160B70D88AA42CF9.
+[2022.03.27-19.02.41:923][191]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___804198C408E5ADAF93854FFE160B70D88AA42CF9 to HierarchicalDerivedDataBackend. Error: 0 (The operation completed successfully.)
+[2022.03.27-19.02.47:419][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.27-19.02.47:444][518]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.27-19.03.18:147][133]Cmd: TRANSACTION UNDO
+[2022.03.27-19.03.18:147][133]LogEditorTransaction: Undo Edit GameMode Override
+[2022.03.27-19.03.23:907][452]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-19.03.23:912][452]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.27-19.03.23:912][452]LogPlayLevel: [PlayLevel] Compiling Player_Start_Blueprint before play...
+[2022.03.27-19.03.23:957][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.27-19.03.23:965][452]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2022.03.27-19.03.23:965][452]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 7:03:23 AM)
+[2022.03.27-19.03.23:965][452]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.03.23:969][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003537s)
+[2022.03.27-19.03.23:970][452]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-19.03.23:970][452]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2022.03.27-19.03.23:971][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005011s)
+[2022.03.27-19.03.23:992][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.27-19.03.23:992][452]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-19.03.23:992][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-19.03.23:992][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-19.03.23:993][452]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-19.03.23:993][452]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-19.03.23:993][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-19.03.23:993][452]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-19.03.23:995][452]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-19.03.23:995][452]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-19.03.24:094][452]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-19.03.24:094][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-19.03.24:095][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-19.03.24:095][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-19.03.24:095][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-19.03.24:095][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-19.03.24:095][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-19.03.24:097][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-19.03.24:097][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-19.03.24:097][452]LogInit: FAudioDevice initialized.
+[2022.03.27-19.03.24:097][452]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2022.03.27-19.03.24:105][452]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-19.03.24:107][452]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-13.03.24
+[2022.03.27-19.03.24:107][452]LogWorld: Bringing up level for play took: 0.000792
+[2022.03.27-19.03.24:107][452]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.27-19.03.24:225][452]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-19.03.24:304][452]PIE: Server logged in
+[2022.03.27-19.03.24:305][452]PIE: Play in editor total start time 0.394 seconds.
+[2022.03.27-19.03.24:317][452]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-19.03.29:986][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.03.29:986][736]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.03.29:986][736]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.03.29:986][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.03.29:996][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-19.03.30:012][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.03.30:037][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.03.30:037][736]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-19.03.30:037][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.03.30:038][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.03.30:045][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.03.27-19.03.30:062][737]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.27-19.03.30:978][789]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.27-19.03.31:000][789]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.27-19.03.33:183][913]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-19.03.33:188][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-19.03.33:188][913]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 7:03:33 AM)
+[2022.03.27-19.03.33:188][913]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.03.33:192][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003587s)
+[2022.03.27-19.03.33:193][913]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-19.03.33:193][913]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2022.03.27-19.03.33:193][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.004970s)
+[2022.03.27-19.03.33:218][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.27-19.03.33:219][913]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.27-19.03.33:219][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-19.03.33:219][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-19.03.33:219][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-19.03.33:220][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-19.03.33:220][913]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-19.03.33:220][913]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-19.03.33:220][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-19.03.33:220][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-19.03.33:220][913]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-19.03.33:220][913]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-19.03.33:220][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-19.03.33:220][913]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-19.03.33:223][913]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-19.03.33:223][913]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-19.03.33:322][913]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-19.03.33:322][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-19.03.33:322][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-19.03.33:322][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-19.03.33:323][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-19.03.33:323][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-19.03.33:323][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-19.03.33:324][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-19.03.33:324][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-19.03.33:324][913]LogInit: FAudioDevice initialized.
+[2022.03.27-19.03.33:324][913]LogAudio: Display: Audio Device (ID: 7) registered with world 'VRTemplateMap'.
+[2022.03.27-19.03.33:338][913]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.27-19.03.33:339][913]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-13.03.33
+[2022.03.27-19.03.33:340][913]LogWorld: Bringing up level for play took: 0.000982
+[2022.03.27-19.03.33:340][913]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.27-19.03.33:342][913]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.27-19.03.33:342][913]PIE: Server logged in
+[2022.03.27-19.03.33:343][913]PIE: Play in editor total start time 0.155 seconds.
+[2022.03.27-19.03.33:383][913]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-19.03.35:736][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.03.35:736][ 46]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.03.35:736][ 46]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.03.35:737][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.03.35:745][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-19.03.35:768][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.03.35:794][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.03.35:794][ 46]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-19.03.35:794][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.03.35:796][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.03.35:802][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.03.27-19.03.35:815][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.27-19.03.53:531][923]LogEditorViewport: Clicking on Actor (LMB): Player_Start_Blueprint_C (Player_Start_Blueprint)
+[2022.03.27-19.04.14:024][137]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-19.04.14:029][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-19.04.14:029][137]PIE: New page: PIE session: VRTemplateMap (Mar 27, 2022, 7:04:14 AM)
+[2022.03.27-19.04.14:029][137]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.04.14:033][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003952s)
+[2022.03.27-19.04.14:034][137]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.03.27-19.04.14:034][137]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2022.03.27-19.04.14:034][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005440s)
+[2022.03.27-19.04.14:061][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.03.27-19.04.14:065][137]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.27-19.04.14:065][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-19.04.14:065][137]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.27-19.04.14:065][137]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.27-19.04.14:065][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-19.04.14:065][137]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-19.04.14:068][137]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-19.04.14:068][137]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-19.04.14:180][137]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.27-19.04.14:180][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-19.04.14:180][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-19.04.14:180][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-19.04.14:181][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-19.04.14:181][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-19.04.14:181][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-19.04.14:182][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-19.04.14:182][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-19.04.14:182][137]LogInit: FAudioDevice initialized.
+[2022.03.27-19.04.14:182][137]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2022.03.27-19.04.14:195][137]LogLoad: Game class is 'GameMode'
+[2022.03.27-19.04.14:197][137]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.03.27-13.04.14
+[2022.03.27-19.04.14:197][137]LogWorld: Bringing up level for play took: 0.001015
+[2022.03.27-19.04.14:198][137]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.27-19.04.14:200][137]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-19.04.14:200][137]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.27-19.04.14:200][137]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-19.04.14:201][137]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.27-19.04.14:201][137]PIE: Server logged in
+[2022.03.27-19.04.14:202][137]PIE: Play in editor total start time 0.173 seconds.
+[2022.03.27-19.04.14:218][137]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.27-19.04.16:447][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.04.16:447][262]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.03.27-19.04.16:447][262]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.04.16:447][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.04.16:454][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-19.04.16:478][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-19.04.16:504][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-19.04.16:505][262]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-19.04.16:505][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.04.16:506][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.04.16:513][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.27-19.04.16:526][263]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.27-19.04.20:593][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.27-19.04.20:611][495]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMapE4BF13D44CA96DFA813A089FD92B6B8F.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.03.27-19.04.20:678][495]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap_BuiltData12B5F22F44DE803C298435AC8759E9EE.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.03.27-19.04.20:691][495]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-19.04.20:691][495]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.03.27-19.04.20:691][495]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.03.27-19.07.02:345][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.03.27-19.07.02:377][268]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap2947CF204ABC9D41F0A4EB8C5F169C9B.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.03.27-19.07.02:462][268]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRTemplateMap_BuiltData5997B50143FB063FCAF4EB96E4C05413.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.03.27-19.07.02:481][268]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-19.07.02:481][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.03.27-19.07.02:481][268]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.03.27-19.07.04:686][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.03.27-19.07.06:541][389]LogSlate: Window 'Save Content' being destroyed
+[2022.03.27-19.07.06:577][389]LogSavePackage: Moving '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Saved/VRGameMode572385E84C39371D8E34049EE2392ECD.tmp' to '../../../../../../Users/TEMP.DESKTOP-DV3H2OO/Documents/GitHub/reVir/RealidadVirtual/Thalasofobia/Content/VRTemplate/Blueprints/VRGameMode.uasset'
+[2022.03.27-19.07.06:599][389]LogSlate: Window 'Thalasofobia - Unreal Editor' being destroyed
+[2022.03.27-19.07.06:751][389]AssetCheck: New page: Asset Save: VRGameMode
+[2022.03.27-19.07.06:751][389]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode
+[2022.03.27-19.07.06:753][390]Cmd: QUIT_EDITOR
+[2022.03.27-19.07.06:753][390]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.27-19.07.06:766][390]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.27-19.07.07:589][390]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.27-19.07.07:590][390]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.27-19.07.07:590][390]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2022.03.27-19.07.07:590][390]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.27-19.07.07:591][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.07.07:598][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-19.07.07:764][390]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.27-19.07.07:765][390]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.27-19.07.07:771][390]LogExit: Preparing to exit.
+[2022.03.27-19.07.08:091][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.27-19.07.08:555][390]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.07.08:558][390]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.07.08:561][390]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.07.08:564][390]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.07.08:834][390]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.27-19.07.09:252][390]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-19.07.09:252][390]LogExit: Editor shut down
+[2022.03.27-19.07.09:252][390]LogExit: Transaction tracking system shut down
+[2022.03.27-19.07.10:932][390]LogExit: Object subsystem successfully closed.
+[2022.03.27-19.07.10:941][390]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-19.07.10:942][390]LogShaderCompilers: Display: Total job queries 11711, among them cache hits 46 (0.39%)
+[2022.03.27-19.07.10:942][390]LogShaderCompilers: Display: Tracking 6869 distinct input hashes that result in 2242 distinct outputs (32.64%)
+[2022.03.27-19.07.10:942][390]LogShaderCompilers: Display: RAM used: 28.75 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.51%
+[2022.03.27-19.07.10:942][390]LogShaderCompilers: Display: ================================================
+[2022.03.27-19.07.11:433][390]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.27-19.07.13:442][390]LogModuleManager: Shutting down and abandoning module BlueprintGraph (878)
+[2022.03.27-19.07.13:442][390]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.03.27-19.07.13:442][390]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.03.27-19.07.13:443][390]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.03.27-19.07.13:444][390]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.03.27-19.07.13:444][390]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.03.27-19.07.13:444][390]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.03.27-19.07.13:444][390]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (852)
+[2022.03.27-19.07.13:469][390]LogModuleManager: Shutting down and abandoning module TakeRecorder (851)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (848)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module TakesCore (846)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (844)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module OpenXRInput (842)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module GooglePADEditor (840)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (838)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (836)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2022.03.27-19.07.13:474][390]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (798)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (796)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (794)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module WaterEditor (792)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.03.27-19.07.13:475][390]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.03.27-19.07.13:488][390]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.03.27-19.07.13:497][390]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.03.27-19.07.14:380][390]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.03.27-19.07.14:380][390]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.03.27-19.07.14:380][390]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.03.27-19.07.14:380][390]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.03.27-19.07.14:380][390]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.03.27-19.07.14:440][390]MemoryProfiler: Shutdown
+[2022.03.27-19.07.14:440][390]NetworkingProfiler: Shutdown
+[2022.03.27-19.07.14:440][390]LoadingProfiler: Shutdown
+[2022.03.27-19.07.14:440][390]TimingProfiler: Shutdown
+[2022.03.27-19.07.14:441][390]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.03.27-19.07.14:442][390]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.03.27-19.07.14:443][390]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.03.27-19.07.14:488][390]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.03.27-19.07.14:519][390]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.03.27-19.07.14:598][390]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.03.27-19.07.14:598][390]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.03.27-19.07.14:599][390]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.03.27-19.07.14:599][390]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.03.27-19.07.14:600][390]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.03.27-19.07.14:600][390]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.03.27-19.07.14:600][390]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.03.27-19.07.14:602][390]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.03.27-19.07.14:602][390]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.03.27-19.07.14:602][390]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.03.27-19.07.14:603][390]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.03.27-19.07.14:725][390]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module TakeSequencer (594)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module TakeMovieScene (592)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module ResonanceAudio (584)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module OpenXREditor (578)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (576)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2022.03.27-19.07.14:726][390]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module TemplateSequence (548)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MediaCompositing (546)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module ImgMedia (544)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (542)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (540)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (538)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (536)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (534)
+[2022.03.27-19.07.14:727][390]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (532)
+[2022.03.27-19.07.14:965][390]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2022.03.27-19.07.14:965][390]LogOpenImageDenoise: OIDN shutting down
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module LandmassEditor (524)
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module Landmass (522)
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.03.27-19.07.14:966][390]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.03.27-19.07.14:985][390]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (500)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (492)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (476)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (472)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (466)
+[2022.03.27-19.07.15:022][390]LogModuleManager: Shutting down and abandoning module CurveEditorTools (464)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (462)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module CryptoKeys (460)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (456)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2022.03.27-19.07.15:101][390]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (434)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (432)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (430)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (428)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (426)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (424)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (422)
+[2022.03.27-19.07.15:102][390]LogModuleManager: Shutting down and abandoning module LiveLink (420)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (418)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (416)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module Paper2DEditor (414)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (412)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (410)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.03.27-19.07.15:119][390]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.03.27-19.07.15:220][390]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.03.27-19.07.15:320][390]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.03.27-19.07.15:320][390]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.03.27-19.07.15:321][390]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.03.27-19.07.15:322][390]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.03.27-19.07.15:322][390]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (348)
+[2022.03.27-19.07.15:322][390]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.03.27-19.07.15:323][390]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.03.27-19.07.15:323][390]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.03.27-19.07.15:323][390]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.03.27-19.07.15:323][390]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.03.27-19.07.15:323][390]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.03.27-19.07.15:328][390]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.03.27-19.07.15:328][390]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2022.03.27-19.07.15:329][390]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2022.03.27-19.07.15:329][390]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (310)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module Paper2D (308)
+[2022.03.27-19.07.15:331][390]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (306)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (304)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (302)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (300)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module PacketHandler (298)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (296)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (294)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module MediaAssets (292)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module Overlay (290)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module OverlayEditor (289)
+[2022.03.27-19.07.15:337][390]LogModuleManager: Shutting down and abandoning module VREditor (286)
+[2022.03.27-19.07.15:399][390]LogModuleManager: Shutting down and abandoning module StringTableEditor (284)
+[2022.03.27-19.07.15:399][390]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (282)
+[2022.03.27-19.07.15:399][390]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (280)
+[2022.03.27-19.07.15:413][390]LogModuleManager: Shutting down and abandoning module FunctionalTesting (278)
+[2022.03.27-19.07.15:413][390]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (276)
+[2022.03.27-19.07.15:414][390]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (275)
+[2022.03.27-19.07.15:414][390]LogModuleManager: Shutting down and abandoning module UMG (272)
+[2022.03.27-19.07.15:414][390]LogModuleManager: Shutting down and abandoning module UMGEditor (271)
+[2022.03.27-19.07.15:414][390]LogModuleManager: Shutting down and abandoning module MessageLog (269)
+[2022.03.27-19.07.15:414][390]LogModuleManager: Shutting down and abandoning module SlateReflector (264)
+[2022.03.27-19.07.15:423][390]LogModuleManager: Shutting down and abandoning module Slate (262)
+[2022.03.27-19.07.15:424][390]LogModuleManager: Shutting down and abandoning module SlateCore (260)
+[2022.03.27-19.07.15:427][390]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (258)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module UnrealEd (256)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module MRMesh (254)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module XAudio2 (248)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module Core (244)
+[2022.03.27-19.07.15:428][390]LogModuleManager: Shutting down and abandoning module MaterialEditor (242)
+[2022.03.27-19.07.15:436][390]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2022.03.27-19.07.15:436][390]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2022.03.27-19.07.15:446][390]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2022.03.27-19.07.15:448][390]LogModuleManager: Shutting down and abandoning module EditorStyle (236)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module KismetCompiler (232)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module MeshBuilder (230)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (226)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (225)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (223)
+[2022.03.27-19.07.15:453][390]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (221)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (219)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module MaterialBaking (215)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (210)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module DerivedDataCache (208)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module TargetPlatform (206)
+[2022.03.27-19.07.15:479][390]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (205)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (203)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (201)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (199)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (195)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (193)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (191)
+[2022.03.27-19.07.15:480][390]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (189)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (187)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (185)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (183)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module ImageWrapper (182)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (179)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (177)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (175)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (173)
+[2022.03.27-19.07.15:481][390]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (171)
+[2022.03.27-19.07.15:482][390]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (169)
+[2022.03.27-19.07.15:482][390]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (167)
+[2022.03.27-19.07.15:482][390]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2022.03.27-19.07.15:489][390]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (163)
+[2022.03.27-19.07.15:489][390]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (161)
+[2022.03.27-19.07.15:489][390]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (159)
+[2022.03.27-19.07.15:490][390]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (157)
+[2022.03.27-19.07.15:490][390]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (155)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (153)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (151)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (149)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (147)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (145)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (143)
+[2022.03.27-19.07.15:498][390]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (141)
+[2022.03.27-19.07.15:499][390]LogModuleManager: Shutting down and abandoning module Messaging (139)
+[2022.03.27-19.07.15:499][390]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (137)
+[2022.03.27-19.07.15:504][390]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (135)
+[2022.03.27-19.07.15:525][390]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (133)
+[2022.03.27-19.07.15:525][390]LogModuleManager: Shutting down and abandoning module D3D11RHI (130)
+[2022.03.27-19.07.15:525][390]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2022.03.27-19.07.15:525][390]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2022.03.27-19.07.15:525][390]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (124)
+[2022.03.27-19.07.15:526][390]LogModuleManager: Shutting down and abandoning module PhysXCooking (122)
+[2022.03.27-19.07.15:526][390]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.03.27-19.07.15:573][390]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (118)
+[2022.03.27-19.07.15:573][390]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (117)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module AVEncoder (116)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OculusOpenXRHMD (112)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (110)
+[2022.03.27-19.07.15:574][390]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.03.27-19.07.15:574][390]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.03.27-19.07.15:575][390]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.03.27-19.07.15:663][390]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.03.27-19.07.15:721][390]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.03.27-19.07.15:721][390]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.03.27-19.07.15:721][390]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB145D9D3-4C99-8A3E-A340-0CA4FB75144B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c5d0b274478d9ab3bedac89f0c53462d%7Ca9f3595f1f9a43ee9a657e1d4e7d61ea%7Cd7df89a8-7e04-48f2-8fba-96b552423cfb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.03.27-19.07.15:721][390]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.03.27-19.07.15:725][390]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.03.27-19.07.15:730][390]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.03.27-19.07.15:736][390]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.03.27-19.07.15:738][390]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module Water (64)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.03.27-19.07.15:739][390]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.03.27-19.07.15:740][390]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.03.27-19.07.15:740][390]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.03.27-19.07.15:740][390]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.03.27-19.07.15:740][390]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.03.27-19.07.15:741][390]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.03.27-19.07.15:742][390]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.03.27-19.07.15:742][390]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.03.27-19.07.15:742][390]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.27-19.07.15:742][390]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.27-19.07.15:742][390]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.27-19.07.15:743][390]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.27-19.07.15:743][390]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.03.27-19.07.15:758][390]LogD3D11RHI: Shutdown
+[2022.03.27-19.07.15:758][390]LogD3D11RHI: CleanupD3DDevice
+[2022.03.27-19.07.15:761][390]LogExit: Exiting.
+[2022.03.27-19.07.15:780][390]Log file closed, 03/27/22 13:07:15
